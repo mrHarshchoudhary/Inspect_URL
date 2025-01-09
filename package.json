@@ -1,0 +1,24 @@
+{
+  "name": "inspect_url",
+  "version": "0.0.1",
+  "description": "Making an js to chekc the url blocked or valid! ",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrHarshchoudhary/Inspect_URL.git"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrHarshchoudhary/Inspect_URL/issues"
+  },
+  "homepage": "https://github.com/mrHarshchoudhary/Inspect_URL#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inspect_url": "file:"
+  }
+}
