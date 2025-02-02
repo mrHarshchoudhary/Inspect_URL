@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/mrHarshchoudhary/Inspect_URL#readme",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "chalk": "^5.4.1",
+    "express": "^4.21.2",
     "inspect_url": "file:"
   }
 }
